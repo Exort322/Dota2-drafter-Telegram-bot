@@ -1,6 +1,6 @@
 from telebot import types
-token = "6921689467:AAGLkR_k5Ea_c6TOQu5Iop0xQp4Se0aj7_k"
-admin = 1087642462
+token = None
+admin = None
 heroes_list_link = "https://telegra.ph/Spisok-geroev-02-17"
 
 b_1_text = "Список героев"
